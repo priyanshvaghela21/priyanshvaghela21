@@ -1,0 +1,12 @@
+<svg width="220" height="52" viewBox="0 0 220 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="220" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="1" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="218" height="50" rx="14" fill="#07111F" stroke="url(#border)" stroke-opacity="0.8" stroke-width="2" />
+  <path d="M29 13L39 17V25C39 32 34.5 36.5 29 39C23.5 36.5 19 32 19 25V17L29 13Z" fill="#0E2B36" stroke="#34D399" stroke-width="1.5" />
+  <path d="M24 25.5L27.5 29L34 22" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="55" y="31" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1">OPEN BRANDGUARD</text>
+</svg>

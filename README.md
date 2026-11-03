@@ -2,111 +2,85 @@
   <img src="./assets/profile-banner.svg" alt="Priyansh Vaghela — AI and full-stack builder" width="100%" />
 </div>
 
-<div align="center">
-
-  <a href="https://github.com/priyanshvaghela21"><img src="https://img.shields.io/badge/GitHub-priyanshvaghela21-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://brandguard-zeta.vercel.app"><img src="https://img.shields.io/badge/Live%20Build-BrandGuard-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="BrandGuard live build" /></a>
-  <img src="https://komarev.com/ghpvc/?username=priyanshvaghela21&style=for-the-badge&color=7c3aed&label=PROFILE+SIGNALS" alt="Profile views" />
-
-</div>
-
-<br />
-
-<h1 align="center">Hi, I'm Priyansh 👋</h1>
-
 <p align="center">
-  <strong>AI product builder · Full-stack developer · Digital trust enthusiast</strong>
-  <br />
-  I turn ambitious ideas into useful, human-centred software — from intelligent health tools to safer digital brands.
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Shipping+AI+products+with+purpose.;Building+trusted+digital+experiences.;Turning+ideas+into+useful+software." alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/priyanshvaghela21?tab=repositories">Explore my work</a>
-  ·
-  <a href="https://brandguard-zeta.vercel.app">Try BrandGuard</a>
-  ·
-  <a href="https://github.com/priyanshvaghela21">Let's connect</a>
+  <a href="https://github.com/priyanshvaghela21"><img src="./assets/button-github.svg" alt="Explore GitHub" /></a>
+  <a href="https://brandguard-zeta.vercel.app"><img src="./assets/button-brandguard.svg" alt="Open BrandGuard" /></a>
+  <a href="https://github.com/priyanshvaghela21/AHI"><img src="./assets/button-ahi.svg" alt="View AHI" /></a>
 </p>
-
----
-
-## ✦ The short version
-
-```text
-I like the space where product thinking meets engineering.
-
-→ Build        AI-powered products with a clear purpose
-→ Care about  thoughtful interfaces, reliable systems and real-world impact
-→ Currently   turning ideas into polished, deployable experiences
-→ Signature   ship with intent; improve with every commit
-```
-
-## 🚀 Featured builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ BrandGuard</h3>
-      <p>Autonomous pre-publication brand review and governance platform. It combines a deterministic rule engine with AI-assisted review, risk signals and role-based workflows.</p>
-      <p>
-        <a href="https://brandguard-zeta.vercel.app"><strong>Live demo ↗</strong></a>
-        ·
-        <a href="https://github.com/priyanshvaghela21/BrandGuard-AI">Source ↗</a>
-      </p>
-      <sub>React · Vite · FastAPI · Python · SQLite · Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 AHI Health Index</h3>
-      <p>AI-powered health assessment that turns lifestyle and health inputs into a personalised wellness score and practical recommendations inspired by Ayurvedic principles.</p>
-      <p>
-        <a href="https://github.com/priyanshvaghela21/AHI"><strong>View project ↗</strong></a>
-      </p>
-      <sub>JavaScript · AI · Health technology · Web + mobile</sub>
-    </td>
-  </tr>
-</table>
-
-## 🧰 My build stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## 📊 GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshvaghela21&show_icons=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=14b8a6&text_color=64748b&rank_icon=github" alt="Priyansh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshvaghela21&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed&text_color=64748b" alt="Most used languages" />
-</div>
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshvaghela21&hide_border=true&background=FFFFFF00&ring=7c3aed&fire=f97316&currStreakLabel=7c3aed&sideLabels=64748b&dates=94a3b8" alt="GitHub contribution streak" />
-</div>
+## 👋 Hey, I’m Priyansh
 
-## 🧭 What I care about
+I’m an AI-focused full-stack builder who enjoys taking an idea from a rough sketch to a product people can actually use. I care about systems that are useful, interfaces that feel clear, and the details that make a build feel alive.
 
-| Signal | In practice |
-| :--- | :--- |
-| **Useful AI** | Technology should make a meaningful decision, workflow or experience better. |
-| **Trust by design** | Safety, clarity and explainability belong in the product from day one. |
-| **Crafted UX** | A powerful system should still feel simple, responsive and welcoming. |
-| **Visible progress** | Small, consistent commits compound into ambitious products. |
+- 🚀 Building practical AI products with **JavaScript, React, Python and FastAPI**
+- 🛡️ Exploring digital trust, brand safety and explainable product workflows
+- 🌿 Creating technology that connects health, thoughtful UX and real-world impact
+- 🌱 Learning by shipping, iterating and turning every commit into progress
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshvaghela21&layout=compact&hide_border=true&theme=transparent&bg_color=07111F&title_color=F8FAFC&text_color=CBD5E1&icon_color=22D3EE&langs_count=6" alt="Top languages" />
+</p>
 
-<div align="center">
-  <h3>Let's build something that matters.</h3>
-  <a href="https://github.com/priyanshvaghela21?tab=repositories">Browse repositories →</a>
-  <br /><br />
+## ✅ Finished builds
+
+<p align="center">
+  <a href="https://brandguard-zeta.vercel.app"><img src="./assets/button-brandguard.svg" alt="Open BrandGuard live build" /></a>
+  <a href="https://github.com/priyanshvaghela21/BrandGuard-AI"><img src="./assets/button-source.svg" alt="BrandGuard source code" /></a>
+  <a href="https://github.com/priyanshvaghela21/AHI"><img src="./assets/button-ahi.svg" alt="AHI Health Index source code" /></a>
+</p>
+
+## 🧪 Selected work
+
+<p align="center">
+  <a href="https://github.com/priyanshvaghela21/BrandGuard-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshvaghela21&repo=BrandGuard-AI&hide_border=true&theme=transparent&bg_color=07111F&title_color=F8FAFC&text_color=CBD5E1&icon_color=22D3EE" alt="BrandGuard AI repository card" /></a>
+  <a href="https://github.com/priyanshvaghela21/AHI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshvaghela21&repo=AHI&hide_border=true&theme=transparent&bg_color=07111F&title_color=F8FAFC&text_color=CBD5E1&icon_color=34D399" alt="AHI repository card" /></a>
+</p>
+
+**What each project explores**
+
+- **BrandGuard** — deterministic brand rules, AI-assisted review, risk signals and role-based governance.
+- **AHI Health Index** — personalised wellness scoring that blends modern technology with Ayurvedic principles.
+
+## 🧰 Tools I reach for
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,react,vite,python,fastapi,sqlite,docker,git,github,vercel&perline=10" alt="Technology icons" /></a>
+</p>
+
+## 📊 The build loop
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshvaghela21&bg_color=07111F&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Shipping%20with%20intent" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshvaghela21&show_icons=true&hide_border=true&theme=transparent&bg_color=07111F&title_color=F8FAFC&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=priyanshvaghela21&hide_border=true&background=07111F&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshvaghela21/priyanshvaghela21/main/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+</p>
+
+## 🤝 Let’s build something useful
+
+If you’re working on a strong idea, a tricky interaction, or an interesting AI angle, I’d love to hear about it.
+
+<p align="center">
+  <a href="https://github.com/priyanshvaghela21?tab=repositories"><img src="./assets/button-github.svg" alt="Browse repositories" /></a>
+  <a href="https://brandguard-zeta.vercel.app"><img src="./assets/button-brandguard.svg" alt="Try BrandGuard" /></a>
+</p>
+
+<p align="center">
   <sub>Designed with curiosity · Built with intent · Shipped from India 🇮🇳</sub>
-</div>
+</p>
+
+<p align="center">
+  <img src="./assets/footer-wave.svg" alt="Footer decoration" width="100%" />
+</p>
